@@ -13,6 +13,7 @@
     "@emailjs/browser": "^4.4.1",
     "@tailwindcss/vite": "^4.1.8",
     "framer-motion": "^12.16.0",
+    "g-project": "file:..",
     "react": "^19.1.0",
     "react-confetti": "^6.4.0",
     "react-dom": "^19.1.0",
